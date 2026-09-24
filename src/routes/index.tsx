@@ -179,12 +179,15 @@ function Index() {
       <footer id="contato" className="bg-foreground px-5 py-24 text-background md:px-10 md:py-36">
         <div className="mx-auto max-w-7xl text-center">
           <p className="mb-8 text-[10px] font-semibold uppercase tracking-[0.3em] opacity-60">Tem uma história para registrar?</p>
-          <a href="https://instagram.com/beatrizmobile" target="_blank" rel="noreferrer" className="group inline-flex items-center gap-3 font-display text-[clamp(3rem,8vw,7.5rem)] italic leading-none">
+          <a href="https://wa.me/5513991508431" target="_blank" rel="noreferrer" className="group inline-flex items-center gap-3 font-display text-[clamp(3rem,8vw,7.5rem)] italic leading-none">
             Vamos conversar <ArrowUpRight className="size-[0.55em] transition-transform group-hover:-translate-y-1 group-hover:translate-x-1" />
           </a>
           <div className="mt-24 flex flex-col items-center justify-between gap-6 border-t border-background/15 pt-8 text-[10px] uppercase tracking-[0.18em] md:flex-row">
             <span>Beatriz Silva — Storymaker</span>
-            <a href="https://instagram.com/beatrizmobile" target="_blank" rel="noreferrer" className="transition-opacity hover:opacity-50">@beatrizmobile</a>
+            <div className="flex gap-6">
+              <a href="https://www.instagram.com/beatrizsmobile?stkn=d3ZmbHdyMDBndjA=" target="_blank" rel="noreferrer" className="transition-opacity hover:opacity-50">Instagram</a>
+              <a href="https://wa.me/5513991508431" target="_blank" rel="noreferrer" className="transition-opacity hover:opacity-50">WhatsApp</a>
+            </div>
             <span>© 2026</span>
           </div>
         </div>
