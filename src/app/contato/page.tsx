@@ -4,8 +4,8 @@ import ContactForm from '@/components/ContactForm';
 import Reveal from '@/components/Reveal';
 
 export const metadata: Metadata = {
-  title: 'Contato | Beatriz Silva — Storymaker',
-  description: 'Fale com a Beatriz Silva — Storymaker sobre o seu próximo registro.',
+  title: 'Contato | Beatriz Mobile',
+  description: 'Fale com a Beatriz Mobile sobre o seu próximo registro.',
 };
 
 export default function ContatoPage() {

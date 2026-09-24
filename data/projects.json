@@ -1,0 +1,62 @@
+﻿[
+  {
+    "slug": "projeto-1",
+    "title": "[Nome do projeto]",
+    "client": "[Cliente]",
+    "type": "Evento",
+    "date": "[Data]",
+    "description": "[Descricao do projeto - a preencher]",
+    "mediaType": "video",
+    "coverImage": "/images/placeholder-1.jpg",
+    "gallery": [],
+    "span": "wide"
+  },
+  {
+    "slug": "projeto-2",
+    "title": "[Nome do projeto]",
+    "client": "[Cliente]",
+    "type": "Conteudo para marca",
+    "date": "[Data]",
+    "description": "[Descricao do projeto - a preencher]",
+    "mediaType": "foto",
+    "coverImage": "/images/placeholder-2.jpg",
+    "gallery": [],
+    "span": "wide"
+  },
+  {
+    "slug": "projeto-3",
+    "title": "[Nome do projeto]",
+    "client": "[Cliente]",
+    "type": "Momento especial",
+    "date": "[Data]",
+    "description": "[Descricao do projeto - a preencher]",
+    "mediaType": "foto",
+    "coverImage": "/images/placeholder-3.jpg",
+    "gallery": [],
+    "span": "tall"
+  },
+  {
+    "slug": "projeto-4",
+    "title": "[Nome do projeto]",
+    "client": "[Cliente]",
+    "type": "Redes sociais",
+    "date": "[Data]",
+    "description": "[Descricao do projeto - a preencher]",
+    "mediaType": "video",
+    "coverImage": "/images/placeholder-4.jpg",
+    "gallery": [],
+    "span": "tall"
+  },
+  {
+    "slug": "projeto-5",
+    "title": "[Nome do projeto]",
+    "client": "[Cliente]",
+    "type": "Evento",
+    "date": "[Data]",
+    "description": "[Descricao do projeto - a preencher]",
+    "mediaType": "foto",
+    "coverImage": "/images/placeholder-5.jpg",
+    "gallery": [],
+    "span": "tall"
+  }
+]

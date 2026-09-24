@@ -17,9 +17,8 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 border-b border-creme/10 bg-preto/50 backdrop-blur-md">
       <nav className="mx-auto flex max-w-[1100px] items-center justify-between px-6 py-4">
-        <Link href="/" className="flex flex-col leading-none">
-          <span className="font-serif text-sm tracking-[0.18em]">BEATRIZ SILVA</span>
-          <span className="font-sans text-[10px] tracking-[0.22em] uppercase text-creme/60">Storymaker</span>
+        <Link href="/" className="font-serif text-lg tracking-wide">
+          BEATRIZ MOBILE
         </Link>
 
         <div className="hidden items-center gap-7 text-sm md:flex">

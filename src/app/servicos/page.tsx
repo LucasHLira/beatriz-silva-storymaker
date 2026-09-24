@@ -4,9 +4,9 @@ import CTAFinal from '@/components/CTAFinal';
 import Reveal from '@/components/Reveal';
 
 export const metadata: Metadata = {
-  title: 'Serviços | Beatriz Silva — Storymaker',
+  title: 'Serviços | Beatriz Mobile',
   description:
-    'Conheça os serviços de registro audiovisual da Beatriz Silva — Storymaker: eventos, marcas, redes sociais e momentos especiais.',
+    'Conheça os serviços de registro audiovisual da Beatriz Mobile: eventos, marcas, redes sociais e momentos especiais.',
 };
 
 export default function ServicosPage() {

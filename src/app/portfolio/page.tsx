@@ -3,8 +3,8 @@ import PortfolioGrid from '@/components/PortfolioGrid';
 import Reveal from '@/components/Reveal';
 
 export const metadata: Metadata = {
-  title: 'Portfólio | Beatriz Silva — Storymaker',
-  description: 'Trabalhos audiovisuais realizados pela Beatriz Silva — Storymaker.',
+  title: 'Portfólio | Beatriz Mobile',
+  description: 'Trabalhos audiovisuais realizados pela Beatriz Mobile.',
 };
 
 export default function PortfolioPage() {

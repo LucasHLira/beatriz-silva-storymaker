@@ -19,13 +19,13 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Beatriz Silva — Storymaker | Registros que viram memórias',
+  title: 'Beatriz Mobile | Registros que viram memórias',
   description:
-    'Beatriz Silva Storymaker — registros audiovisuais para transformar momentos, histórias e experiências em memórias.',
+    'Beatriz Mobile — registros audiovisuais para transformar momentos, histórias e experiências em memórias.',
   openGraph: {
-    title: 'Beatriz Silva — Storymaker | Registros que viram memórias',
+    title: 'Beatriz Mobile | Registros que viram memórias',
     description:
-      'Beatriz Silva Storymaker — registros audiovisuais para transformar momentos, histórias e experiências em memórias.',
+      'Beatriz Mobile — registros audiovisuais para transformar momentos, histórias e experiências em memórias.',
     type: 'website',
   },
 };

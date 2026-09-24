@@ -1,58 +1,29 @@
-# Beatriz Mobile — Site institucional
+# Storymaker Landing Page
 
-Projeto Next.js (App Router) + TypeScript + Tailwind CSS + Framer Motion,
-construído a partir do PRD do projeto.
+Preciso fazer uma LP para uma storymaker, ela quer como cor principal um off white, mais clean, como a logo dela, segue todos os arquivos que ela me mandou.
 
-## Rodando localmente
+todas as imagens são black fit 20 de setembro parceria com @girlsmovementclub
+tem um video também mais nao consegui subi-lo, segue como referencia também a primeira LP que fiz https://beatriz-silva-storymaker.vercel.app/ , mas leve em conta o feedback dela
 
-```bash
-npm install
+This project was built with [Lovable](https://lovable.dev).
+
+**Live app**: https://storymaker-clean-canvas.lovable.app
+
+## Build with Lovable
+
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f9c3a726-9548-4fcc-8f08-715b949cdec3).
+
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
 npm run dev
 ```
-
-Acesse http://localhost:3000
-
-## Estrutura
-
-```
-src/
-├── app/
-│   ├── page.tsx          → Home
-│   ├── sobre/            → Sobre
-│   ├── servicos/         → Serviços
-│   ├── portfolio/        → Portfólio + página de projeto individual
-│   ├── contato/          → Contato
-│   ├── layout.tsx        → Layout raiz (fontes, Navbar, Footer, WhatsApp)
-│   └── globals.css
-├── components/           → Componentes reutilizáveis
-└── data/                 → Conteúdo editável (serviços, projetos, contato)
-```
-
-## Antes de publicar — pendências reais (não inventadas)
-
-Estes itens estão marcados como placeholder no código e precisam de
-informação real da cliente antes do site ir ao ar:
-
-- **`src/data/contact.ts`** — número de WhatsApp, Instagram e e-mail reais.
-- **`src/data/projects.ts`** — projetos reais do portfólio (título, cliente,
-  descrição, fotos/vídeos). Substituir os arquivos em `/public/images` e
-  `/public/videos`.
-- **`src/app/sobre/page.tsx`** — biografia real da Beatriz.
-- **Formulário de contato** (`src/components/ContactForm.tsx`) — hoje só
-  simula o envio. Para funcionar de verdade, ligue a uma API route (Next.js)
-  que envie por e-mail (Resend, SendGrid) ou a uma integração com WhatsApp
-  Business API.
-- **Depoimentos** — o PRD pede para não criar depoimentos fictícios; a
-  seção não foi incluída até haver depoimentos reais e autorizados.
-
-## Deploy sugerido
-
-Vercel (import do repositório Git → deploy automático).
-
-## Stack
-
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS (paleta customizada: musgo, vinho, creme, preto)
-- Framer Motion (animações de entrada)
-- Lucide React (ícones do menu mobile)

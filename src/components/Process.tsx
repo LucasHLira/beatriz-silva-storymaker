@@ -10,7 +10,7 @@ const steps = [
 
 export default function Process() {
   return (
-    <section className="px-6 py-24">
+    <section className="bg-black/20 px-6 py-24">
       <div className="mx-auto max-w-[1100px]">
         <Reveal className="text-center">
           <p className="eyebrow">Processo</p>

@@ -3,7 +3,7 @@ import Reveal from './Reveal';
 
 export default function Services({ compact = false }: { compact?: boolean }) {
   return (
-    <section className={`px-6 ${compact ? 'py-16' : 'py-24'}`}>
+    <section className={`px-6 ${compact ? 'py-16' : 'py-24 bg-black/20'}`}>
       <div className="mx-auto max-w-[1100px]">
         {!compact && (
           <Reveal className="text-center">

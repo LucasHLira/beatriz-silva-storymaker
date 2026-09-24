@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import Reveal from '@/components/Reveal';
 
 export const metadata: Metadata = {
-  title: 'Sobre | Beatriz Silva — Storymaker',
-  description: 'Conheça a história por trás da Beatriz Silva — Storymaker.',
+  title: 'Sobre | Beatriz Mobile',
+  description: 'Conheça a história por trás da Beatriz Mobile.',
 };
 
 export default function SobrePage() {
